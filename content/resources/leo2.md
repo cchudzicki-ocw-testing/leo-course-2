@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/leos-second-course/leo2.jpg
+file: /media/courses/1-leos-second-course-spring-1999/leo2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
