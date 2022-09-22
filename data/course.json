@@ -1,0 +1,32 @@
+{
+  "term": "Spring",
+  "year": "1999",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "ee5615e8-9f56-447f-9367-a5add61bdc6b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "leos-second-course"
+  },
+  "course_title": "Leo's second course",
+  "course_description": "1",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "1",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "leos-second-course"
+  },
+  "learning_resource_types": [],
+  "site_uid": "6eeeeafc-192e-430a-9905-5d9501c0ca67"
+}
